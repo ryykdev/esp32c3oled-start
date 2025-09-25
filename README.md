@@ -1,4 +1,4 @@
-# esp32-c3-oled blinkey
+# esp32-c3-oled blinky
 
 This code will blink an LED on GPIO1.
 
