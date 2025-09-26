@@ -1,15 +1,9 @@
 # Rust on ESP32-C3 0.42 OLED dev board - display text and images - MacOS (Apple Silicon)
 
-This code will display some text and images on the esp32c3's 72x40 oled display.
-
-## convert images to monochrome bitmap
-
-`brew install imagemagick`
-
-convert image from png
-```bash
-convert ferris-w.png -monochrome ferris-w.bmp
-```
+This repo has some example code you can find using the following tags:
+- v1-blinky blink an external LED
+- v2-oled-example using the onboard OLED
+- v3-uv-sonsor-red using the red GUVA-S12SD sensor
 
 
 ## required setup (apple silicon macos)
